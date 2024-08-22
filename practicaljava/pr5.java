@@ -11,6 +11,7 @@ public class pr5 {
         Scanner sc = new Scanner(System.in);
         day = sc.nextInt();
 
+        // write a java program that shows the digits statement
         switch (day) {
             case 1:
                 System.out.println("mon..");
