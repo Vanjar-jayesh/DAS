@@ -1,3 +1,4 @@
+// Write a java Progarm that will display factorial of given number.
 package practicaljava;
 
 public class pr2 {
