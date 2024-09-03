@@ -27,6 +27,31 @@ import array01.pusone;
 
             // create a garade codeing
 
+         
+            int avg;
+            avg = total/5;
+
+            System.out.println("avg :"+avg);
+
+            if (avg >= 90 && avg <= 100 ) {
+                System.out.println("A");
+                
+            }
+            else if (avg >= 70 && avg<= 89) {
+                System.out.println("B");
+
+            }
+            else if (avg >=60 && avg <= 69) {
+                System.out.println("C");
+            }
+            else if (avg >= 50 && avg<=59) {
+                System.out.println("D");
+            }
+            else{
+                System.out.println("E");
+            }
+
+
 
 
         }
