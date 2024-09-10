@@ -34,3 +34,8 @@ public class pr9 {
     }
     
 }
+
+OUTPUT:
+enter the number : 
+7
+
