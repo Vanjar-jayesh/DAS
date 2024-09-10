@@ -23,3 +23,7 @@ public class pr7 {
         System.out.println("the sum of the series is : "+sum);
     }
 }
+OUTPUT:
+enter the number of terms:
+5
+the sum of the series is : 2.2833335
