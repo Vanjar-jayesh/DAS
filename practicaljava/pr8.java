@@ -31,3 +31,8 @@ public class pr8 {
     }
     
 }
+
+OUTPUT:
+enter the number : 
+7
+7is a prime number
